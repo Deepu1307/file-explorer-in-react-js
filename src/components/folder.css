@@ -1,0 +1,15 @@
+.container {  
+    background: #000;
+    width: 200px;
+    height: 100vh;
+    color: #fff;
+}
+
+.container__item {
+    padding: 5px;
+    
+}
+
+/* .container__item .folder {
+
+} */
